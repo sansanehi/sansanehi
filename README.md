@@ -1,4 +1,4 @@
-[![banner](./sanehi.png)](https://sanehi.vercel.app/)
+[![banner](./sanehi.gif)](https://sanehi.vercel.app/)
 
 
 ### Hi there, I'm Sanehi 👋  
