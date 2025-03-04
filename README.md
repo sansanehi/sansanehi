@@ -1,9 +1,9 @@
-### Hi there, I'm Saneh 👋  
+### Hi there, I'm Sanehi 👋  
 
 🚀 **Full-Stack Developer | AI & Cybersecurity Enthusiast**  
-🎓 B.Tech CSE (AI & ML) | CDLU, Sirsa  
+🎓 B.Tech CSE (AI & ML) |  
 🌍 Building scalable web apps with **Next.js, Tailwind CSS, Node.js**  
-💡 Passionate about **AI, cybersecurity, and ethical hacking**  
+💡 Passionate about **WEB DEVLOPMENT & AI **  
 📌 Portfolio: [sanehi.vercel.app](https://sanehi.vercel.app)  
 
 ---
