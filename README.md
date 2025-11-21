@@ -1,4 +1,4 @@
-[![banner](./sanehi.gif)](https://sanehi.vercel.app/)
+[![banner](./sanehi.gif)](https://sanehi.in/)
 
 
 ### Hi there, I'm Sanehi 👋  
@@ -7,7 +7,7 @@
 🎓 B.Tech CSE (AI & ML) |  
 🌍 Building scalable web apps with **Next.js, Tailwind CSS, Node.js**  
 💡 Passionate about **WEB DEVLOPMENT & AI **  
-📌 Portfolio: [sanehi.vercel.app](https://sanehi.vercel.app)  
+📌 Portfolio: [sanehi.in](https://sanehi.in)  
 
 ---
 
