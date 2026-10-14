@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./intro.gif" alt="Sanehi — automation software developer" width="100%" />
-
 ### Automation Software Developer
 
 I build workflow systems, admin platforms, and realtime software.
