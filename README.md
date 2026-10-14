@@ -1,72 +1,78 @@
-[![Sanehi — Automation Software Developer](./sanehi.gif)](https://sanehi.in/)
-
 <div align="center">
 
-# Sanehi
+<img src="./intro.gif" alt="3D orbit of esampark, Medh, and TimezERP" width="100%" />
+
 ### Automation Software Developer
 
-I build software that runs operations: workflow systems, admin platforms, real-time products, and the pipelines that keep them moving.
+I build the products behind the orbit: workflow systems, admin platforms, and realtime software.
 
 B.Tech CSE (AI & ML) · Faridabad, India
 
-[Portfolio](https://sanehi.in) · [GitHub](https://github.com/sansanehi) · [X](https://x.com/Sansanehi)
+[sanehi.in](https://sanehi.in) · [esampark.org](https://esampark.org) · [GitHub](https://github.com/sansanehi) · [X](https://x.com/Sansanehi)
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=00C46A&center=true&vCenter=true&multiline=false&width=760&height=40&lines=esampark.org+%C2%B7+product+platform+and+3D+intro;medh.co+%C2%B7+learning+product;timezerp.com+%C2%B7+MSME+ERP;Next.js+%C2%B7+TypeScript+%C2%B7+workflow+systems" alt="What I am building" />
 
 </div>
 
 ---
 
-## What I build
+## Flagship
 
-Operational software, not brochure sites. The work is typed, workflow-driven, and meant to stay reliable after the first release.
+The three products on [esampark.org](https://esampark.org). Same operating standard, three surfaces.
 
-| Area | What that looks like in practice |
-| --- | --- |
-| **Process automation** | Multi-step workflows, side-effect pipelines, queued work, and audit trails so every change has a record. |
-| **Admin platforms** | Role-based dashboards for leads, content, teams, and operations, with validation on every write. |
-| **Realtime systems** | Live tracking and event-driven updates over WebSockets, built on Node.js. |
-| **Data platforms** | MongoDB models, media on AWS S3, Redis-backed state, and APIs shaped for the product in front of them. |
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://esampark.org">
+        <img src="./projects/esampark.jpg" alt="esampark.org homepage" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://medh.co">
+        <img src="./projects/medh.jpg" alt="Medh homepage" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://timezerp.com">
+        <img src="./projects/timezerp.jpg" alt="TimezERP homepage" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://esampark.org"><b>esampark.org</b></a><br />
+      Tech triad site. Next.js, TypeScript, and the 3D product scene that introduces BPO, Medh, and TimezERP.
+    </td>
+    <td align="center">
+      <a href="https://medh.co"><b>medh.co</b></a><br />
+      Learning product. Courses, live classes, and paths for students, professionals, and corporate training.
+    </td>
+    <td align="center">
+      <a href="https://timezerp.com"><b>timezerp.com</b></a><br />
+      MSME ERP. Operations, inventory, sales, HR, and the admin surface owners actually run.
+    </td>
+  </tr>
+</table>
+
+Under those front doors: role-based admin, lead and content workflows, audit history, queued work, and media on AWS S3. TypeScript and Zod at the boundary. MongoDB and Payload for the data. Redux Saga for the pipelines.
 
 ---
 
-## Selected work
+## Also shipped
 
-**[Inventory Manager](https://github.com/sansanehi/Inventory-Manager)**  
-Company inventory software: stock the business can actually manage, not a spreadsheet with a login.
+[Inventory Manager](https://github.com/sansanehi/Inventory-Manager) — company stock, not a spreadsheet with a login.
 
-**[Real-Time Tracker](https://github.com/sansanehi/Real-Time-Tracker)**  
-Live location and status tracking with Node.js, Express, and Socket.io.
-
-**Operational platforms**  
-Production admin and automation systems on Next.js and TypeScript: lead intake, content operations, team roles, offline-capable forms, and email delivery wired into the same workflow.
-
-Portfolio: [sanehi.in](https://sanehi.in)
-
----
-
-## Engineering
-
-- **Workflows first.** Async work lives in explicit pipelines (Redux Saga and queued jobs), so UI actions and background effects stay separate.
-- **Contracts at the boundary.** TypeScript and Zod on inputs. MongoDB and Payload CMS for content and operational data.
-- **Surfaces operators use.** Admin tools, audit history, and role-aware access, designed for daily use.
-- **Delivery path.** Next.js, Tailwind CSS, AWS S3 for media, Redis where state has to be fast, GraphQL where the API needs it.
+[Real-Time Tracker](https://github.com/sansanehi/Real-Time-Tracker) — live tracking on Node.js, Express, and Socket.io.
 
 ---
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-087EA4?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<div align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![Stack](https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,express,threejs,mongodb,redis,graphql,tailwind,aws&perline=6)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -87,6 +93,6 @@ Portfolio: [sanehi.in](https://sanehi.in)
 
 Open to automation and product-engineering work.
 
-[sanehi.in](https://sanehi.in) · [github.com/sansanehi](https://github.com/sansanehi) · [@Sansanehi](https://x.com/Sansanehi)
+[sanehi.in](https://sanehi.in) · [esampark.org](https://esampark.org) · [medh.co](https://medh.co) · [@Sansanehi](https://x.com/Sansanehi)
 
 </div>
